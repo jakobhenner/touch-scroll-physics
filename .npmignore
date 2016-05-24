@@ -9,3 +9,7 @@ demo/
 .npmignore
 LICENSE.md
 index.html
+touch-scroll-physics.sublime-project
+touch-scroll-physics.sublime-workspace
+gulpfile.js
+dist/

@@ -3,3 +3,7 @@ node_modules
 *.log
 .DS_Store
 bundle.js
+touch-scroll-physics.sublime-project
+touch-scroll-physics.sublime-workspace
+gulpfile.js
+dist/
